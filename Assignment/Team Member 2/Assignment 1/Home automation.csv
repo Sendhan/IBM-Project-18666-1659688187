@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"S1, S2, S3, S4",4," Pushbutton"
+"K1, K2, K3, K4",4," Relay SPDT"
+"U2",1," IR sensor"
+"L1",1," Light bulb"
+"M1",1," DC Motor"
+"M2",1," Hobby Gearmotor"
+"M3",1," Vibration Motor"
+"P1",1,"12.6 , 5  Power Supply"
